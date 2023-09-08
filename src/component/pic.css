@@ -1,0 +1,69 @@
+
+.card-container.Clear{
+   background: url("https://i.pinimg.com/564x/22/a0/12/22a01224cf473a20f1e51bfa3f6957d9.jpg"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.card-container.Clouds{
+    background: url("https://i.pinimg.com/564x/cc/01/4c/cc014c0ef0a12fef6a5ab4a7d841d6a4.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Rain{
+    background: url("https://i.pinimg.com/564x/14/b9/0e/14b90e67d1198fbfdcc350d13c8ecc44.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Drizzle{
+    background: url("https://i.pinimg.com/564x/09/ef/ce/09efceeaf26359fe205e190fe623cc00.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Thunderstorm{
+    background: url("https://i.pinimg.com/564x/78/6f/47/786f47db7ce50a6e7ecd359aaac02817.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Snow{
+    background: url("https://i.pinimg.com/564x/c1/57/26/c157269ea44435ba53e44e25e1e06b1f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Fog{
+    background: url("https://i.pinimg.com/564x/44/67/fa/4467fabe0d4207153d3aa7f7406eaf8a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Mist{
+    background: url("https://i.pinimg.com/564x/e4/55/ce/e455ce7aac0d347b55da0f82ccab1727.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Haze{
+    background: url("https://i.pinimg.com/564x/cf/7c/91/cf7c91dd5cbe548fc52087108bbdd686.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Smoke, .card-container.Dust{
+    background: url("https://i.pinimg.com/564x/d2/24/3c/d2243c52d41b987163ef038635d3b5f1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.card-container.Sand{
+    background: url("https://i.pinimg.com/564x/8c/cc/e9/8ccce9092f38fb2a8b2533a8efccf682.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-container.Ash{
+    background: url("https://i.pinimg.com/564x/12/29/85/12298564e47476c0ce0f5f7a31063c45.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container.Squall{
+    background: url("https://i.pinimg.com/564x/2d/09/92/2d099293d885531ab38479944520be7f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

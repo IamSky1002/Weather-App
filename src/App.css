@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+  color: white;
+}
+body{
+  background-color:rgb(241, 241, 241);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0; 
+
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+.card-container{
+  
+  width: 80%;
+  max-width: 450px;
+  height: 750px;
+  margin: 2rem auto;
+  padding: 20px;
+  background: url('https://i.pinimg.com/564x/39/52/cd/3952cd7a3ec752aa9483d90576757fb5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+  border-radius: 15px;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.5);
+
+  
+}
+
+

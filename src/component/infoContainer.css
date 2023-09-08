@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+.top-container{
+    display: flex;
+    position:relative;
+    
+}
+.front-container{
+    flex: 1;
+}
+
+.opening{
+    font-size: 1.5rem;
+    position: absolute;
+
+    letter-spacing: 0.6px;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+
+/* TEMP */
+.temp-container{
+    display: flex;
+    margin-top: 0.5rem;
+}
+
+.temp-num{
+    font-size: 12rem;
+    letter-spacing: -10px;
+    
+    position: relative;
+    top: 15px;
+    
+}
+.celsius{
+    font-size: 6rem;
+    font-weight: 500;
+
+    position: relative;
+    top: 35px;
+    left: -15px;
+}
+.celsius>span{
+    font-size: 4rem;
+    font-weight: 600;
+
+    position: relative;
+    top: -8px;
+    left: -8px;
+}
+/* wearther */
+.weather{
+    font-size: 1.2rem;
+    font-weight: 700;
+
+    position: absolute;
+    text-align: left top;
+    white-space: nowrap;
+    top: 6px;
+    right: 0px;
+    
+
+    transform: rotate(-180deg);
+    writing-mode: vertical-lr;
+    
+}
+/* bottom container */
+
+.bottom-container{
+    display: flex;
+    justify-content: space-between;
+    
+
+    margin-top: 200px;
+    padding:  20px 45px;
+    
+
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.388);
+}
+
+
+
+.bottom{
+    font-size: 1.2rem;
+    font-weight: 600;
+
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+}
+.bottom>span{
+    font-size: 0.8rem;
+}

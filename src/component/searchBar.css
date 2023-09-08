@@ -1,0 +1,18 @@
+.search-container{
+    width: 100%;
+    display: flex;
+
+}
+.search-bar{
+    margin: 20px 0px 40px;
+    font-size: 18px;
+    padding: 8px 16px;
+    width: 100%;
+    
+    border: 0;
+    background-color: rgba(0, 0, 0, 0.128);
+
+}
+.search-bar:focus{
+    outline: none;
+}
